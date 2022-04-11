@@ -1,0 +1,1 @@
+/usr/bin/cc  -DIIO_CHECK_RET -rdynamic CMakeFiles/ad9361-iiostream.dir/ad9361-iiostream.c.o -o ad9361-iiostream  -liio 

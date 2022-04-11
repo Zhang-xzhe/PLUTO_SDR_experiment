@@ -1,0 +1,2 @@
+sudo arm-linux-gnueabihf-gcc LED.c -o LED1 -lwiringPi
+
